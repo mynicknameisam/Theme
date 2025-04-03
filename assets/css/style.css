@@ -2262,4 +2262,6 @@ label {
     min-height: 900px;
 }
 
-
+.Form input, .Form textarea{
+	border: 4px solid #333;
+}
