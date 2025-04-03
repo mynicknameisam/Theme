@@ -2270,6 +2270,13 @@ label {
 .Form{
 	margin-top:30px;
 }
+
+.Form label{
+	color:#333;
+	font-size:20px;
+	font-family: Arial;
+}
+
 .Form input, .Form textarea{
 	border: 4px solid #333;
 }
