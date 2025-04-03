@@ -400,6 +400,11 @@ ul.sidebar-menu li a.active i {
 
 }
 
+.header{
+	position:sticky;
+	top:0;
+}
+
 .header, .footer {
     min-height: 60px;
     padding: 0 15px;
@@ -2262,6 +2267,9 @@ label {
     min-height: 900px;
 }
 
+.Form{
+	margin-top:30px;
+}
 .Form input, .Form textarea{
 	border: 4px solid #333;
 }
