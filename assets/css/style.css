@@ -429,7 +429,7 @@ ul.sidebar-menu li a.active i {
 a.logo {
     font-size: 20px;
     color: #ffffff;
-    margin-top: 15px;
+    padding-top: 15px;
     text-transform: uppercase;
     display:block;
     text-align:center;
